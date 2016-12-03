@@ -1,4 +1,6 @@
 <resources>
 	<string name="hotel_list_review_formatted_avg_count" formatted="true">%1$.2f/10 (%2$d notes)</string>
 	<string name="weekend_image_desc">Photo de présentation du weekend</string>
+	<string name="action_retry">Réessayer</string>
+	<string name="fetch_last_hotels_failed">Erreur au chargement des derniers hôtels.</string>
 </resources>

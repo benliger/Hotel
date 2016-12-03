@@ -28,6 +28,12 @@
 		android:layout_height="match_parent"
 		app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
+		<ProgressBar
+			android:id="@android:id/progress"
+			android:layout_marginTop="@dimen/text_margin"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+
 		<include layout="@layout/hotel_list"/>
 	</FrameLayout>
 
