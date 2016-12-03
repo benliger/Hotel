@@ -1,0 +1,4 @@
+<resources>
+	<string name="hotel_list_review_formatted_avg_count" formatted="true">%1$.2f/10 (%2$d notes)</string>
+	<string name="weekend_image_desc">Photo de présentation du weekend</string>
+</resources>

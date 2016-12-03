@@ -1,0 +1,4 @@
+<resources>
+	<string name="weekend_detail_price_formatted_sell_price" formatted="true">%1$d €</string>
+	<string name="weekend_detail_image_desc">Photo de présentation du weekend</string>
+</resources>
